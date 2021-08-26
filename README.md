@@ -1,10 +1,9 @@
-# Machine-Learning-L1-feature-selection
+MACHINE LEARNING FINAL TASK
 
-A machine learning based group task 1. Testing feature selection and regression using ANN
+A project to check if a pet is a dog or a cat using image processing.
+The dataset is from kaggle.com with the cat and dog images. Binary 
+classification is used to classify the dogs and cats. Tensorflow 
+and Keras libraries have been used for the training and testing of the 
+model.
 
-GROUP 5 MEMBERS-ICS 4B
-Halkano Fayo Hache
-Raphael Mike Oluoch
-Brian Omondi Teddy
-Alpha Wambutsi Musambi
-
+GROUP 5 MEMBERS-ICS 4B Halkano Fayo Hache, Raphael Mike Oluoch, Brian Omondi Teddy, Alpha Wambutsi Musambi  
